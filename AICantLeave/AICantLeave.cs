@@ -1,8 +1,8 @@
 ﻿using ThunderRoad;
 
-namespace AICantLeave
+namespace AICantLeaveNomad
 {
-    public class AICantLeave : ThunderScript
+    public class AICantLeaveNomad : ThunderScript
     {
         public override void ScriptLoaded(ModManager.ModData modData)
         {
